@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subkanthi
+- 👋 Hi, I’m Kanthi
 - 💞️ I’m looking to collaborate on Distributed Computing Frameworks
 - 📫 How to reach me subkanthi@gmail.com
 
